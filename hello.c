@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    print("Hello world!");
+    print("Yoyo,Ross!");
     return 0;
 }
